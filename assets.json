@@ -1,0 +1,163 @@
+{
+  "style": "stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain",
+  "assets": [
+    {
+      "name": "bg_main",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_main.png",
+      "prompt": "Vertical 9:19.5 portrait mobile game menu background, a dark velvet private gem-vault hall, gilded arches receding into shadow, warm gold rim light from above, scattered cut stones glinting on the floor, deep violet atmosphere, the lower half kept low contrast and uncluttered so UI reads over it, no characters, no UI elements, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_game.png",
+      "prompt": "Vertical 9:19.5 portrait mobile game play background, the inside of a gem vault seen soft and far away, amethyst and gold gradient walls, a dark calm centre band, very low contrast and nothing busy anywhere so a slot cabinet and UI read clearly on top, no characters, no UI elements, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain"
+    },
+    {
+      "name": "sprite_mark_vault",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_mark_vault.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single abstract emblem: a faceted diamond centred inside a gilded octagonal vault frame, front view, perfectly symmetric, isolated subject, square canvas, fully in frame, no other objects, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_sym_ruby",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_ruby.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single deep red cut ruby, front view, centred, perfectly symmetric, isolated subject, crisp silhouette, thick gold bezel around it, square canvas, fully in frame, no other objects and no scene around it, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_sym_sapphire",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_sapphire.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single royal blue cut sapphire, front view, centred, perfectly symmetric, isolated subject, crisp silhouette, thick gold bezel around it, square canvas, fully in frame, no other objects and no scene around it, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_sym_emerald",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_emerald.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single green cut emerald, front view, centred, perfectly symmetric, isolated subject, crisp silhouette, thick gold bezel around it, square canvas, fully in frame, no other objects and no scene around it, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_sym_topaz",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_topaz.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single warm amber cut topaz, front view, centred, perfectly symmetric, isolated subject, crisp silhouette, thick gold bezel around it, square canvas, fully in frame, no other objects and no scene around it, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_sym_crown",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_crown.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single gold royal crown, front view, centred, perfectly symmetric, isolated subject, crisp silhouette, thick gold bezel around it, square canvas, fully in frame, no other objects and no scene around it, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_sym_bell",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_bell.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single gold fortune bell, front view, centred, perfectly symmetric, isolated subject, crisp silhouette, thick gold bezel around it, square canvas, fully in frame, no other objects and no scene around it, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_sym_coin",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_coin.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single stack of three gold coins, front view, centred, perfectly symmetric, isolated subject, crisp silhouette, thick gold bezel around it, square canvas, fully in frame, no other objects and no scene around it, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_sym_diamond",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_diamond.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single brilliant white diamond, front view, centred, perfectly symmetric, isolated subject, crisp silhouette, thick gold bezel around it, square canvas, fully in frame, no other objects and no scene around it, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_sym_wild",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_wild.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single violet star-cut gem with radiating gold rays, front view, centred, perfectly symmetric, isolated subject, crisp silhouette, thick gold bezel around it, square canvas, fully in frame, no other objects and no scene around it, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_sym_scatter",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_scatter.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single ornate gold vault key, front view, centred, perfectly symmetric, isolated subject, crisp silhouette, thick gold bezel around it, square canvas, fully in frame, no other objects and no scene around it, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_reel_frame",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_reel_frame.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single ornate rectangular gold cabinet frame with a COMPLETELY EMPTY TRANSPARENT CENTRE, thick bevelled metallic border only, front view, symmetric, isolated subject, no fill inside the opening, nothing drawn in the middle, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_plate_gold",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_plate_gold.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single horizontal brushed-gold panel plate with bevelled edges and rounded corners, flat even centre suitable for 9-slice stretching, front view, isolated subject, nothing drawn on the face, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_icon_close",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_close.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single thick diagonal cross icon in polished gold, two bars crossing, front view, perfectly symmetric, isolated subject, square canvas, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_icon_back",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_back.png",
+      "facing": "side view, facing LEFT",
+      "prompt": "One single thick chevron arrow icon in polished gold, side view, pointing LEFT, isolated subject, square canvas, nothing else in frame, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_icon_pause",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_pause.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single pause icon of two thick vertical rounded bars in polished gold, front view, perfectly symmetric, isolated subject, square canvas, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_gem_shard",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gem_shard.png",
+      "facing": "front view, no facing",
+      "prompt": "One single small violet gem shard with a gold edge, front view, isolated subject, square canvas, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    },
+    {
+      "name": "sprite_coin_burst",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_coin_burst.png",
+      "facing": "front view, symmetric, no facing",
+      "prompt": "One single round gold fortune coin with a bevelled rim, front view, perfectly symmetric, isolated subject, square canvas, stylized 3D game art, chunky glossy forms, thick bevelled metallic trim, cel-shaded highlights, rich saturated colour, deep violet and gold palette, palette deep violet #171027 ink #050210 surface #1C1233 amethyst #6D28D9 gold #FACC15 teal #14B8A6 cream #FFF7ED, no text, no logo, no letters, no photo, no photorealism, no DSLR, no stock photo, no lens flare, no bokeh, no depth of field, no film grain, no text, no letters, no numbers, no photo, no photorealism, no DSLR, no lens flare, no bokeh, no film grain"
+    }
+  ]
+}
